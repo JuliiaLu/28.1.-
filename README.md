@@ -9,4 +9,5 @@
 анализ граничных значений
 тестирование состояний и переходов
 ссылка на тест-кейсы и баг-репортер:
+
 https://docs.google.com/spreadsheets/d/1KKRR86fBYNgxeSl2tayHKGlarrPsm2100sH_MYMgDyk/edit?usp=sharing
